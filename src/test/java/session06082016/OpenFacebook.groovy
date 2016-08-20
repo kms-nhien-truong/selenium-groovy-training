@@ -1,3 +1,5 @@
+package session06082016
+
 import org.openqa.selenium.WebDriver
 import org.openqa.selenium.firefox.FirefoxDriver
 
