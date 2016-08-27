@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        function sayHello(){
+            var name =document.getElementById('name').value
+            alert('hello ' +name)
+
+        }
+        function writeName(){
+            var name =document.getElementById('name').value
+            //alert('hello ' +name)
+            var result = confirm('Is that your name?')
+            if(result){
+                document.getElementById('content').innerHTML =name
+            }
+            else{
+            document.getElementById('content').innerHTML ='a stranger'
+            }
+        }
+    </script>
+</head>
+<body>
+Name:<input id="name">
+<br/>
+<button onclick="sayHello();" id="sayHello">Say Hello</button>
+<button onclick="writeName();" id="writeName">Write Name</button>
+<a href="http://google.com" id="google">Google</a>
+<div id="content"></div>
+</body>
+</html>

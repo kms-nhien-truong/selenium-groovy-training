@@ -1,4 +1,4 @@
-package session27082016
+package session20082016
 
 import org.openqa.selenium.By
 import org.testng.annotations.BeforeClass
@@ -48,8 +48,10 @@ class TestTable extends TestBase {
     }
 
     void assertResult(name, result){
-
+        //First table xpath='//table[tbody[tr[th[text()='Exam. Result']]]]'
+        //Second table xpath='//table[tbody[tr[th[text()='#'] and th[text()='Name'] and not(th[text()='Exam. Result'])]]]'
         //Xpath1: //table[1]//tr[td[text()='Hoa']]/td[3]
+        ////table[preceding-sibling::h1[text()='TRAINING ATTENDEES']]
         def xpath='//table[1]//td[text()="'+name+'"]/following-sibling::td'
         def resultCell = driver.findElement(By.xpath(xpath))
 

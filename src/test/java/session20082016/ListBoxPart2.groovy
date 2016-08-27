@@ -1,13 +1,11 @@
-package session27082016
+package session20082016
 
 import org.openqa.selenium.By
-import org.openqa.selenium.WebElement
 import org.openqa.selenium.support.ui.Select
 import org.testng.annotations.BeforeClass
 import org.testng.annotations.Test
 
 import static org.fest.assertions.api.Assertions.assertThat
-import static org.fest.assertions.api.Assertions.entry
 
 /**
  * Created by nhientruong on 8/20/2016.
