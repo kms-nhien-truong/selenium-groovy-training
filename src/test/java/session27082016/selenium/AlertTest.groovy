@@ -3,7 +3,7 @@ package session27082016.selenium
 import org.openqa.selenium.By
 import org.testng.annotations.BeforeClass
 import org.testng.annotations.Test
-import session20082016.TestBase
+import common.TestBase
 
 import static org.fest.assertions.api.Assertions.assertThat
 

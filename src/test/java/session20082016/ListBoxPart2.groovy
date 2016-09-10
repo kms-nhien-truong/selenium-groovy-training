@@ -1,5 +1,6 @@
 package session20082016
 
+import common.TestBase
 import org.openqa.selenium.By
 import org.openqa.selenium.support.ui.Select
 import org.testng.annotations.BeforeClass

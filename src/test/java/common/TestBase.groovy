@@ -1,14 +1,16 @@
-package session20082016
+package common
 
 import org.openqa.selenium.WebDriver
 import org.openqa.selenium.firefox.FirefoxDriver
 import org.testng.annotations.AfterMethod
+import org.testng.annotations.BeforeClass
 import org.testng.annotations.BeforeMethod
 
 /**
  * Created by nhientruong on 8/20/2016.
  */
 class TestBase {
+
     //Access Modifier
     protected String BaseUrl = "https://facebook.com"
     protected WebDriver driver =null
