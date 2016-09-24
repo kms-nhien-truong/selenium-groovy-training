@@ -24,35 +24,41 @@ class Keywords {
            return null
         }
     }
-    static def clickButtonThroughFrames(WebDriver driver, buttonCaption){
-        def buttonBy =By.xpath("//button[text()='$buttonCaption']")
-        def button = findElement(driver,buttonBy)
-        if(button!=null){
+    static def clickButtonThroughFrames(WebDriver driver, buttonCaption) {
+        def buttonBy = By.xpath("//button[text()='$buttonCaption']")
+        def button = findElement(driver, buttonBy)
+        if (button != null) {
             button = driver.findElement(buttonBy)
             button.click()
             return true
-        }
-        else
-        {
+        } else {
             //find all frames
             def frames = driver.findElements(buttonBy.tagName('iframe'))
-            if(frames == null || frames.size() <=0)
+            if (frames == null || frames.size() <= 0)
                 return false
-            for(def frame : frames){
+            for (def frame : frames) {
                 driver.switchTo().frame(frame)
-                button = findElement(driver,buttonBy)
-                if(button!=null){
+                button = findElement(driver, buttonBy)
+                if (button != null) {
                     button.click()
                     return true
                 }
                 driver.switchTo().defaultContent()
-//                else{
-//                    driver.switchTo().defaultContent()
-//                }
             }
         }
-
-
-
     }
+    static def selectWindowByUrl(driver, url){
+        def handles = driver.getWindowHandles()
+        for(def handle : handles){
+            driver
+                    .switchTo()
+                    .window(handle)
+
+            if(driver.getCurrentUrl()==url){
+                break
+            }
+        }
+    }
+
+
 }
