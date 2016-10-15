@@ -1,0 +1,30 @@
+
+Done:
+- handling popup
+
+
+Review:
+- Annotation
+- String interpolation
+- Before/After
+- Text area (Optional)
+- Get Css Attribute (optional)
+- Mouse over
+- Double click
+- Drag drop
+- Javascript
+- WindowUtils kill Process
+*** Remaning items ***
+
+- Implicit wait
+- Explicit wait
+- Custom Expected Conditions
+- Data-driven testing with TestNG
+- Review OOP
+	- Inheritance.
+	- Encapsulation.
+	- Polymorphism.
+- Page Object Model
+- Build Wrapper/extension classes
+	-browser
+Other Browsers: Edge, Chrome, Opera, IE...
