@@ -20,12 +20,16 @@ Synchronization
 - Implicit wait
 - Explicit wait
 - Custom Expected Conditions
-- Data-driven testing with TestNG
+
 - Review OOP
 	- Inheritance.
 	- Encapsulation.
 	- Polymorphism.
+	- Data-driven testing with TestNG
+---------------------------------
 - Page Object Model
-- Build Wrapper/extension classes
-	-browser
 Other Browsers: Edge, Chrome, Opera, IE...
+- Project structure
+- Build Wrapper/extension classes
+-  browser
+

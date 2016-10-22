@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Click the button to wait 3 seconds, then alert "Hello".</p>
+
+<button onclick="myFunction()">Try it</button>
+
+<script>
+function myFunction() {
+    setTimeout(function(){ document.getElementById('wait-input').value='sample'; }, 3000);
+    //document.getElementById('div').innerHTML='new text';
+}
+</script>
+<input id="wait-input"/>
+<div id="div">default</div>
+</body>
+</html>
+

@@ -2,8 +2,11 @@ package common
 
 import org.openqa.selenium.WebDriver
 import org.openqa.selenium.firefox.FirefoxDriver
+import org.openqa.selenium.os.WindowsUtils
 import org.testng.annotations.AfterMethod
 import org.testng.annotations.BeforeMethod
+
+import java.util.concurrent.TimeUnit
 
 /**
  * Created by nhientruong on 10/15/2016.
@@ -17,7 +20,12 @@ class TestBase {
 
     @BeforeMethod(enabled = true)
     public void BeforeMethod(){
+        //WindowsUtils.killByName('firefox.exe')
         driver = new FirefoxDriver()
+//        driver
+//                .manage()
+//                .timeouts()
+//                .implicitlyWait(10,TimeUnit.SECONDS)
         driver.get(BaseUrl)
     }
 
@@ -25,7 +33,7 @@ class TestBase {
 
     @AfterMethod(enabled = true)
     public void AfterMethod(){
-//        if(driver!=null)
-//            driver.quit()
+        if(driver!=null)
+            driver.quit()
     }
 }

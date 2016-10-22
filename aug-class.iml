@@ -38,5 +38,6 @@
     <orderEntry type="library" name="Maven: org.beanshell:bsh:2.0b4" level="project" />
     <orderEntry type="library" name="Maven: org.easytesting:fest-assert-core:2.0M10" level="project" />
     <orderEntry type="library" name="Maven: org.easytesting:fest-util:1.2.5" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.jetbrains:annotations-java5:15.0" level="project" />
   </component>
 </module>

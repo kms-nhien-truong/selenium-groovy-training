@@ -2,20 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e69a8eda-d8a6-401e-9a5d-15cb223982a7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/htmlsample/hoverMenu.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/common/TestBase.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/session15102016/notes/Notes.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/session15102016/selenium/SeleniumActions.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/session15102016/selenium/TestDragDrop.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/common/Keywords.class" afterPath="$PROJECT_DIR$/target/test-classes/common/Keywords.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/common/TestBase.class" afterPath="$PROJECT_DIR$/target/test-classes/common/TestBase.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/session10092016/selenium/AlertTest.class" afterPath="$PROJECT_DIR$/target/test-classes/session10092016/selenium/AlertTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/session10092016/selenium/TestModernPopUp.class" afterPath="$PROJECT_DIR$/target/test-classes/session10092016/selenium/TestModernPopUp.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/session20082016/ListBoxPart2.class" afterPath="$PROJECT_DIR$/target/test-classes/session20082016/ListBoxPart2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/session27082016/selenium/AlertTest.class" afterPath="$PROJECT_DIR$/target/test-classes/session27082016/selenium/AlertTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_annotations_java5_15_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/htmlsample/waitForAlert.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/common/Configs.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/session22102016/notes/Notes.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/session22102016/oop/Codable.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/session22102016/oop/Employee.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/session22102016/oop/JPerson.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/session22102016/oop/Person.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/session22102016/selenium/ValuePresent.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/session22102016/selenium/WaitTest.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/testoop/Calculator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/testoop/DataDrivenTest.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/testoop/OOPTest.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/testoop/TestJPerson.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/testoop/TestPerson.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aug-class.iml" afterPath="$PROJECT_DIR$/aug-class.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/common/Keywords.groovy" afterPath="$PROJECT_DIR$/src/test/java/common/Keywords.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/common/TestBase.groovy" afterPath="$PROJECT_DIR$/src/test/java/common/TestBase.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/session15102016/notes/Notes.txt" afterPath="$PROJECT_DIR$/src/test/java/session15102016/notes/Notes.txt" />
     </list>
     <ignored path="AugAutoClass.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,45 +45,108 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SeleniumActions.groovy" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/session15102016/selenium/SeleniumActions.groovy">
+      <file leaf-file-name="OOPTest.groovy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testoop/OOPTest.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
-              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state relative-caret-position="271">
+              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
               <folding>
-                <element signature="e#34#56#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestBase.groovy" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/common/TestBase.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="28" column="16" selection-start-line="27" selection-start-column="10" selection-end-line="28" selection-end-column="16" />
-              <folding>
-                <element signature="e#16#52#0" expanded="true" />
+                <element signature="e#17#51#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Notes.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/session15102016/notes/Notes.txt">
+        <entry file="file://$PROJECT_DIR$/src/test/java/session22102016/notes/Notes.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+            <state relative-caret-position="264">
+              <caret line="30" column="38" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="38" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hoverMenu.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/htmlsample/hoverMenu.html">
+      <file leaf-file-name="DataDrivenTest.groovy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testoop/DataDrivenTest.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="65" column="26" selection-start-line="65" selection-start-column="26" selection-end-line="65" selection-end-column="26" />
+            <state relative-caret-position="204">
+              <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+              <folding>
+                <element signature="e#17#59#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Calculator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testoop/Calculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+              <folding>
+                <element signature="e#132#133#0" expanded="true" />
+                <element signature="e#158#159#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Employee.groovy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/session22102016/oop/Employee.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Codable.groovy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/session22102016/oop/Codable.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Person.groovy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/session22102016/oop/Person.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="16" column="33" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JPerson.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/session22102016/oop/JPerson.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestJPerson.groovy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testoop/TestJPerson.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestPerson.groovy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testoop/TestPerson.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="139">
+              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -87,8 +157,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -103,26 +173,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/session06082016/FaceBookTest.groovy" />
-        <option value="$PROJECT_DIR$/src/main/java/pages/FacebookPage.groovy" />
-        <option value="$PROJECT_DIR$/src/test/java/session13082016/FaceBookTest.groovy" />
-        <option value="$PROJECT_DIR$/src/test/java/session13082016/LearnWebElement.groovy" />
-        <option value="$MAVEN_REPOSITORY$/org/testng/testng/6.9.10/testng-6.9.10.jar!/org/testng/internal/MethodInvocationHelper.class" />
-        <option value="$PROJECT_DIR$/src/test/java/session13082016/TestUI.groovy" />
-        <option value="$PROJECT_DIR$/src/test/java/LearnList.groovy" />
-        <option value="$PROJECT_DIR$/src/htmlsample/listbox.html" />
-        <option value="$PROJECT_DIR$/src/test/java/session06082016/OpenFacebook.groovy" />
-        <option value="$PROJECT_DIR$/src/test/java/session27082016/ContinueListBox.groovy" />
-        <option value="$PROJECT_DIR$/src/test/java/session27082016/ListBoxPart2.groovy" />
-        <option value="$PROJECT_DIR$/src/test/java/session27082016/TestBase.groovy" />
-        <option value="$PROJECT_DIR$/src/htmlsample/table.html" />
-        <option value="$PROJECT_DIR$/src/test/java/session27082016/LearnList.groovy" />
-        <option value="$PROJECT_DIR$/src/test/java/session27082016/TestTable.groovy" />
-        <option value="$PROJECT_DIR$/src/htmlsample/popup.html" />
-        <option value="$PROJECT_DIR$/src/test/java/session27082016/Test.java" />
-        <option value="$PROJECT_DIR$/src/test/java/session27082016/Test.groovy" />
-        <option value="$PROJECT_DIR$/src/test/java/session20082016/TestBase.groovy" />
-        <option value="$PROJECT_DIR$/src/test/java/session20082016/TestTable.groovy" />
         <option value="$PROJECT_DIR$/src/test/java/session27082016/StaticMethod.groovy" />
         <option value="$PROJECT_DIR$/src/test/java/session27082016/LearnXPath.groovy" />
         <option value="$PROJECT_DIR$/src/test/java/session27082016/LearnStaticMethod.groovy" />
@@ -148,12 +198,32 @@
         <option value="$PROJECT_DIR$/src/test/java/session24092016/selenium/testCss.groovy" />
         <option value="$PROJECT_DIR$/src/test/java/session24092016/selenium/groovy/CallJavaTest.groovy" />
         <option value="$PROJECT_DIR$/src/test/java/session24092016/selenium/java/JavaTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/common/Keywords.groovy" />
         <option value="$PROJECT_DIR$/src/test/java/session15102016/selenium/TestDragDrop.groovy" />
         <option value="$PROJECT_DIR$/src/htmlsample/hoverMenu.html" />
-        <option value="$PROJECT_DIR$/src/test/java/common/TestBase.groovy" />
         <option value="$PROJECT_DIR$/src/test/java/session15102016/selenium/SeleniumActions.groovy" />
         <option value="$PROJECT_DIR$/src/test/java/session15102016/notes/Notes.txt" />
+        <option value="$PROJECT_DIR$/src/test/java/common/TestBase.groovy" />
+        <option value="$PROJECT_DIR$/src/htmlsample/waitForAlert.html" />
+        <option value="$PROJECT_DIR$/src/test/java/session22102016/selenium/ValuePresent.groovy" />
+        <option value="$PROJECT_DIR$/src/test/java/common/Configs.groovy" />
+        <option value="$PROJECT_DIR$/src/test/java/common/Keywords.groovy" />
+        <option value="$PROJECT_DIR$/src/test/java/session22102016/selenium/WaitTest.groovy" />
+        <option value="$PROJECT_DIR$/src/test/java/session22102016/selenium/oop/Person.groovy" />
+        <option value="$PROJECT_DIR$/src/test/java/session22102016/selenium/oop/Employee.groovy" />
+        <option value="$PROJECT_DIR$/src/test/java/session22102016/selenium/oop/OOPTest.groovy" />
+        <option value="$PROJECT_DIR$/src/test/java/session22102016/notes/OOPTest.groovy" />
+        <option value="$PROJECT_DIR$/src/test/java/session22102016/selenium/OOPTest.groovy" />
+        <option value="$PROJECT_DIR$/src/test/java/session22102016/selenium/TestPerson.groovy" />
+        <option value="$PROJECT_DIR$/src/test/java/testoop/TestPerson.groovy" />
+        <option value="$PROJECT_DIR$/src/test/java/session22102016/oop/JPerson.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testoop/TestJPerson.groovy" />
+        <option value="$PROJECT_DIR$/src/test/java/session22102016/oop/Person.groovy" />
+        <option value="$PROJECT_DIR$/src/test/java/session22102016/oop/Codable.groovy" />
+        <option value="$PROJECT_DIR$/src/test/java/session22102016/oop/Employee.groovy" />
+        <option value="$PROJECT_DIR$/src/test/java/testoop/OOPTest.groovy" />
+        <option value="$PROJECT_DIR$/src/test/java/testoop/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testoop/DataDrivenTest.groovy" />
+        <option value="$PROJECT_DIR$/src/test/java/session22102016/notes/Notes.txt" />
       </list>
     </option>
   </component>
@@ -203,9 +273,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -245,34 +315,8 @@
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="12_aug-class" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="12_aug-class" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="session15102016" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="selenium" />
+              <option name="myItemId" value="testoop" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -297,14 +341,6 @@
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="session15102016" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="notes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -317,50 +353,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="common" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="12_aug-class" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="12_aug-class" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="12_aug-class" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="12_aug-class" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="htmlsample" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -381,14 +373,15 @@
       <recent name="session13082016" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\08_YSV\12_aug-class\src\test\java\session22102016" />
       <recent name="D:\08_YSV\12_aug-class\src\test\java\session15102016" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.SeleniumActions">
-    <configuration default="false" name="testTextArea" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.DataDrivenTest">
+    <configuration default="false" name="WaitTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="session24092016.selenium.*" />
+          <option name="PATTERN" value="testoop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -396,8 +389,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="session24092016.selenium" />
-      <option name="MAIN_CLASS_NAME" value="session24092016.selenium.testTextArea" />
+      <option name="PACKAGE_NAME" value="session22102016.selenium" />
+      <option name="MAIN_CLASS_NAME" value="session22102016.selenium.WaitTest" />
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="CLASS" />
@@ -418,109 +411,48 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="false" name="testCss" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="session24092016.selenium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration default="false" name="OOPTest" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
       <module name="aug-class" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="session24092016.selenium" />
-      <option name="MAIN_CLASS_NAME" value="session24092016.selenium.testCss" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
+      <setting name="path" value="file://$PROJECT_DIR$/src/test/java/session22102016/selenium/oop/OOPTest.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src/test/java/session22102016/selenium/oop" />
+      <setting name="debug" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="CallJavaTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="session24092016.selenium.groovy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration default="false" name="OOPTest (1)" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
       <module name="aug-class" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="session24092016.selenium.groovy" />
-      <option name="MAIN_CLASS_NAME" value="session24092016.selenium.groovy.CallJavaTest" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
+      <setting name="path" value="file://$PROJECT_DIR$/src/test/java/testoop/OOPTest.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src/test/java/testoop" />
+      <setting name="debug" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="SeleniumActions" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="TestPerson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="session15102016.selenium.*" />
+          <option name="PATTERN" value="testoop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="aug-class" />
+      <option name="MAIN_CLASS_NAME" value="testoop.TestPerson" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="session15102016.selenium" />
-      <option name="MAIN_CLASS_NAME" value="session15102016.selenium.SeleniumActions" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
+      <module name="aug-class" />
       <envs />
-      <properties />
-      <listeners />
       <method />
     </configuration>
-    <configuration default="false" name="TestDragDrop" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="DataDrivenTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="session15102016.selenium.*" />
+          <option name="PATTERN" value="testoop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -528,8 +460,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="session15102016.selenium" />
-      <option name="MAIN_CLASS_NAME" value="session15102016.selenium.TestDragDrop" />
+      <option name="PACKAGE_NAME" value="testoop" />
+      <option name="MAIN_CLASS_NAME" value="testoop.DataDrivenTest" />
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="CLASS" />
@@ -826,19 +758,18 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="TestNG.testTextArea" />
-      <item index="1" class="java.lang.String" itemvalue="TestNG.testCss" />
-      <item index="2" class="java.lang.String" itemvalue="TestNG.CallJavaTest" />
-      <item index="3" class="java.lang.String" itemvalue="TestNG.SeleniumActions" />
-      <item index="4" class="java.lang.String" itemvalue="TestNG.TestDragDrop" />
+      <item index="0" class="java.lang.String" itemvalue="TestNG.WaitTest" />
+      <item index="1" class="java.lang.String" itemvalue="Groovy.OOPTest" />
+      <item index="2" class="java.lang.String" itemvalue="Groovy.OOPTest (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TestPerson" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG.DataDrivenTest" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.SeleniumActions" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.TestDragDrop" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.CallJavaTest" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.testCss" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG.testTextArea" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="TestNG.DataDrivenTest" />
+        <item index="1" class="java.lang.String" itemvalue="Groovy.OOPTest (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TestPerson" />
+        <item index="3" class="java.lang.String" itemvalue="Groovy.OOPTest" />
       </list>
     </recent_temporary>
   </component>
@@ -867,35 +798,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SeleniumActions - 2016.10.15 at 16h 36m 58s.xml">
-      <configuration name="SeleniumActions" configurationId="TestNG" />
+    <history-entry file="DataDrivenTest - 2016.10.22 at 17h 16m 39s.xml">
+      <configuration name="DataDrivenTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="SeleniumActions - 2016.10.15 at 16h 37m 27s.xml">
-      <configuration name="SeleniumActions" configurationId="TestNG" />
+    <history-entry file="DataDrivenTest - 2016.10.22 at 17h 24m 25s.xml">
+      <configuration name="DataDrivenTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="SeleniumActions - 2016.10.15 at 16h 38m 08s.xml">
-      <configuration name="SeleniumActions" configurationId="TestNG" />
+    <history-entry file="DataDrivenTest - 2016.10.22 at 17h 24m 42s.xml">
+      <configuration name="DataDrivenTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="SeleniumActions - 2016.10.15 at 16h 49m 43s.xml">
-      <configuration name="SeleniumActions" configurationId="TestNG" />
+    <history-entry file="WaitTest - 2016.10.22 at 15h 15m 46s.xml">
+      <configuration name="WaitTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="SeleniumActions - 2016.10.15 at 16h 50m 16s.xml">
-      <configuration name="SeleniumActions" configurationId="TestNG" />
+    <history-entry file="WaitTest - 2016.10.22 at 15h 16m 14s.xml">
+      <configuration name="WaitTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="SeleniumActions - 2016.10.15 at 16h 52m 19s.xml">
-      <configuration name="SeleniumActions" configurationId="TestNG" />
+    <history-entry file="WaitTest - 2016.10.22 at 15h 18m 39s.xml">
+      <configuration name="WaitTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestDragDrop - 2016.10.15 at 16h 20m 53s.xml">
-      <configuration name="TestDragDrop" configurationId="TestNG" />
+    <history-entry file="WaitTest - 2016.10.22 at 15h 32m 34s.xml">
+      <configuration name="WaitTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestDragDrop - 2016.10.15 at 16h 24m 33s.xml">
-      <configuration name="TestDragDrop" configurationId="TestNG" />
+    <history-entry file="WaitTest - 2016.10.22 at 15h 33m 15s.xml">
+      <configuration name="WaitTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestDragDrop - 2016.10.15 at 16h 25m 35s.xml">
-      <configuration name="TestDragDrop" configurationId="TestNG" />
+    <history-entry file="WaitTest - 2016.10.22 at 15h 35m 38s.xml">
+      <configuration name="WaitTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestDragDrop - 2016.10.15 at 16h 36m 49s.xml">
-      <configuration name="TestDragDrop" configurationId="TestNG" />
+    <history-entry file="WaitTest - 2016.10.22 at 16h 19m 55s.xml">
+      <configuration name="WaitTest" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TodoView" selected-index="1">
@@ -912,18 +843,17 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32865733" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32865733" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32865733" sideWeight="0.22135922" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09619238" sideWeight="0.16019417" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20240481" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.068817206" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09619238" sideWeight="0.83980584" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23592234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2446602" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -934,6 +864,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.09320388" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -953,7 +884,15 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="9" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/2.53.0/selenium-support-2.53.0.jar!/org/openqa/selenium/support/ui/ExpectedConditions.class</url>
+          <line>111</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="10" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="TestNG">
@@ -968,82 +907,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/FacebookPage.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/session13082016/FaceBookTest.groovy" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/2.53.0/selenium-support-2.53.0.jar!/org/openqa/selenium/support/ui/Select.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="86" selection-start-line="15" selection-start-column="86" selection-end-line="15" selection-end-column="86" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/session06082016/OpenFacebook.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/session06082016/LearnList.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.10/testng-6.9.10.jar!/org/testng/internal/Invoker.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="732" column="209" selection-start-line="732" selection-start-column="209" selection-end-line="732" selection-end-column="209" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/htmlsample/table.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="12" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/session20082016/LearnList.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/htmlsample/popup.html" />
-    <entry file="file://$PROJECT_DIR$/src/htmlsample/listbox.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/session27082016/Test.groovy" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/session27082016/StaticMethod.groovy" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/session27082016/groovy/Calculator.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/session27082016/selenium/LearnXPath.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/session27082016/groovy/TestPerson.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="73">
@@ -1119,9 +982,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-          <folding>
-            <element signature="e#34#56#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1137,7 +997,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1496">
           <caret line="74" column="22" selection-start-line="74" selection-start-column="22" selection-end-line="74" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1145,7 +1004,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="616">
           <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1160,9 +1018,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
           <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
-          <folding>
-            <element signature="e#34#56#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1170,7 +1025,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1178,7 +1032,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1186,9 +1039,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
-          <folding>
-            <element signature="e#195#196#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1204,9 +1054,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="9" column="9" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="9" />
-          <folding>
-            <element signature="e#41#75#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1214,10 +1061,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="421">
           <caret line="65" column="26" selection-start-line="65" selection-start-column="26" selection-end-line="65" selection-end-column="26" />
-          <folding>
-            <element signature="e#34#56#0" expanded="false" />
-            <element signature="n#!!block;n#testAlertMessage#0;n#!!block;n#AlertTest#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1225,7 +1068,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
           <caret line="37" column="29" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1233,7 +1075,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="29" column="5" selection-start-line="18" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1241,7 +1082,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1249,18 +1089,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="16" column="5" selection-start-line="13" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/common/Keywords.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
-          <folding>
-            <element signature="e#16#45#0" expanded="true" />
-            <element signature="n#!!block;n#clickButtonThroughFrames#0;n#!!block;n#Keywords#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1268,7 +1096,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="80" column="0" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1276,10 +1103,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="144" column="71" selection-start-line="144" selection-start-column="71" selection-end-line="144" selection-end-column="71" />
-          <folding>
-            <element signature="e#3863#3864#0" expanded="true" />
-            <element signature="e#3920#3921#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1287,7 +1110,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1295,44 +1117,365 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
-          <folding>
-            <element signature="e#34#56#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/htmlsample/hoverMenu.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
+        <state relative-caret-position="1430">
           <caret line="65" column="26" selection-start-line="65" selection-start-column="26" selection-end-line="65" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/common/TestBase.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="28" column="16" selection-start-line="27" selection-start-column="10" selection-end-line="28" selection-end-column="16" />
-          <folding>
-            <element signature="e#16#52#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/session15102016/selenium/SeleniumActions.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state relative-caret-position="-176">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding>
-            <element signature="e#34#56#0" expanded="true" />
+            <element signature="e#34#56#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/session15102016/notes/Notes.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        <state relative-caret-position="540">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/common/TestBase.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-37">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+          <folding>
+            <element signature="e#16#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/2.53.0/selenium-support-2.53.0.jar!/org/openqa/selenium/support/ui/ExpectedConditions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="119" column="10" selection-start-line="111" selection-start-column="7" selection-end-line="119" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#38459#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="method#ExpectedConditions#0;class#ExpectedConditions#0" expanded="false" />
+            <element signature="method#titleIs#0;class#ExpectedConditions#0" expanded="false" />
+            <element signature="class#1094:1544" expanded="false" />
+            <element signature="method#apply#0;class#1094:1544" expanded="false" />
+            <element signature="method#toString#0;class#1094:1544" expanded="false" />
+            <element signature="method#titleContains#0;class#ExpectedConditions#0" expanded="false" />
+            <element signature="class#1653:2139" expanded="false" />
+            <element signature="method#apply#0;class#1653:2139" expanded="false" />
+            <element signature="method#toString#0;class#1653:2139" expanded="false" />
+            <element signature="method#urlToBe#0;class#ExpectedConditions#0" expanded="false" />
+            <element signature="class#2240:2706" expanded="false" />
+            <element signature="method#apply#0;class#2240:2706" expanded="false" />
+            <element signature="method#toString#0;class#2240:2706" expanded="false" />
+            <element signature="method#urlContains#0;class#ExpectedConditions#0" expanded="false" />
+            <element signature="class#2816:3299" expanded="false" />
+            <element signature="method#apply#0;class#2816:3299" expanded="false" />
+            <element signature="method#toString#0;class#2816:3299" expanded="false" />
+            <element signature="method#urlMatches#0;class#ExpectedConditions#0" expanded="false" />
+            <element signature="class#3405:4045" expanded="false" />
+            <element signature="method#apply#0;class#3405:4045" expanded="false" />
+            <element signature="method#toString#0;class#3405:4045" expanded="false" />
+            <element signature="e#4242#4243#0" expanded="true" />
+            <element signature="e#4328#4329#0" expanded="true" />
+            <element signature="method#visibilityOfElementLocated#0;class#ExpectedConditions#0" expanded="false" />
+            <element signature="class#4585:5060" expanded="false" />
+            <element signature="method#apply#0;class#4585:5060" expanded="false" />
+            <element signature="method#visibilityOfAllElementsLocatedBy#0;class#ExpectedConditions#0" expanded="false" />
+            <element signature="class#5195:5888" expanded="false" />
+            <element signature="method#apply#0;class#5195:5888" expanded="false" />
+            <element signature="method#visibilityOfAllElements#0;class#ExpectedConditions#0" expanded="false" />
+            <element signature="class#6029:6621" expanded="false" />
+            <element signature="method#apply#0;class#6029:6621" expanded="false" />
+            <element signature="method#visibilityOf#0;class#ExpectedConditions#0" expanded="false" />
+            <element signature="class#6738:7013" expanded="false" />
+            <element signature="method#presenceOfAllElementsLocatedBy#0;class#ExpectedConditions#0" expanded="false" />
+            <element signature="class#7273:7647" expanded="false" />
+            <element signature="method#apply#0;class#7273:7647" expanded="false" />
+            <element signature="method#textToBePresentInElement#0;class#ExpectedConditions#0" expanded="false" />
+            <element signature="class#7792:8305" expanded="false" />
+            <element signature="method#apply#0;class#7792:8305" expanded="false" />
+            <element signature="method#toString#0;class#7792:8305" expanded="false" />
+            <element signature="docComment;method#textToBePresentInElement#1;class#ExpectedConditions#0" expanded="false" />
+            <element signature="method#textToBePresentInElement#1;class#ExpectedConditions#0" expanded="false" />
+            <element signature="method#textToBePresentInElementLocated#0;class#ExpectedConditions#0" expanded="false" />
+            <element signature="class#8655:9217" expanded="false" />
+            <element signature="method#apply#0;class#8655:9217" expanded="false" />
+            <element signature="method#toString#0;class#8655:9217" expanded="false" />
+            <element signature="method#textToBePresentInElementValue#0;class#ExpectedConditions#0" expanded="false" />
+            <element signature="class#9367:9927" expanded="false" />
+            <element signature="method#apply#0;class#9367:9927" expanded="false" />
+            <element signature="method#toString#0;class#9367:9927" expanded="false" />
+            <element signature="method#textToBePresentInElementValue#1;class#ExpectedConditions#0" expanded="false" />
+            <element signature="class#10069:10680" expanded="false" />
+            <element signature="method#apply#0;class#10069:10680" expanded="false" />
+            <element signature="method#toString#0;class#10069:10680" expanded="false" />
+            <element signature="method#frameToBeAvailableAndSwitchToIt#0;class#ExpectedConditions#0" expanded="false" />
+            <element signature="class#10816:11228" expanded="false" />
+            <element signature="method#apply#0;class#10816:11228" expanded="false" />
+            <element signature="method#frameToBeAvailableAndSwitchToIt#1;class#ExpectedConditions#0" expanded="false" />
+            <element signature="class#11355:11797" expanded="false" />
+            <element signature="method#apply#0;class#11355:11797" expanded="false" />
+            <element signature="method#frameToBeAvailableAndSwitchToIt#2;class#ExpectedConditions#0" expanded="false" />
+            <element signature="class#11930:12342" expanded="false" />
+            <element signature="method#apply#0;class#11930:12342" expanded="false" />
+            <element signature="method#frameToBeAvailableAndSwitchToIt#3;class#ExpectedConditions#0" expanded="false" />
+            <element signature="class#12482:12894" expanded="false" />
+            <element signature="method#apply#0;class#12482:12894" expanded="false" />
+            <element signature="method#invisibilityOfElementLocated#0;class#ExpectedConditions#0" expanded="false" />
+            <element signature="class#13016:13606" expanded="false" />
+            <element signature="method#apply#0;class#13016:13606" expanded="false" />
+            <element signature="method#invisibilityOfElementWithText#0;class#ExpectedConditions#0" expanded="false" />
+            <element signature="class#13748:14401" expanded="false" />
+            <element signature="method#apply#0;class#13748:14401" expanded="false" />
+            <element signature="method#toString#0;class#13748:14401" expanded="false" />
+            <element signature="method#elementToBeClickable#0;class#ExpectedConditions#0" expanded="false" />
+            <element signature="class#14518:15184" expanded="false" />
+            <element signature="method#apply#0;class#14518:15184" expanded="false" />
+            <element signature="method#elementToBeClickable#1;class#ExpectedConditions#0" expanded="false" />
+            <element signature="class#15309:15951" expanded="false" />
+            <element signature="method#apply#0;class#15309:15951" expanded="false" />
+            <element signature="method#stalenessOf#0;class#ExpectedConditions#0" expanded="false" />
+            <element signature="class#16064:16556" expanded="false" />
+            <element signature="method#apply#0;class#16064:16556" expanded="false" />
+            <element signature="method#refreshed#0;class#ExpectedConditions#0" expanded="false" />
+            <element signature="class#16677:17109" expanded="false" />
+            <element signature="method#apply#0;class#16677:17109" expanded="false" />
+            <element signature="method#toString#0;class#16677:17109" expanded="false" />
+            <element signature="method#elementToBeSelected#0;class#ExpectedConditions#0" expanded="false" />
+            <element signature="method#elementSelectionStateToBe#0;class#ExpectedConditions#0" expanded="false" />
+            <element signature="class#17411:17751" expanded="false" />
+            <element signature="method#toString#0;class#17411:17751" expanded="false" />
+            <element signature="method#elementToBeSelected#1;class#ExpectedConditions#0" expanded="false" />
+            <element signature="method#elementSelectionStateToBe#1;class#ExpectedConditions#0" expanded="false" />
+            <element signature="class#18037:18583" expanded="false" />
+            <element signature="method#apply#0;class#18037:18583" expanded="false" />
+            <element signature="method#toString#0;class#18037:18583" expanded="false" />
+            <element signature="method#alertIsPresent#0;class#ExpectedConditions#0" expanded="false" />
+            <element signature="class#18673:19053" expanded="false" />
+            <element signature="method#apply#0;class#18673:19053" expanded="false" />
+            <element signature="docComment;method#numberOfwindowsToBe#0;class#ExpectedConditions#0" expanded="false" />
+            <element signature="method#numberOfwindowsToBe#0;class#ExpectedConditions#0" expanded="false" />
+            <element signature="method#numberOfWindowsToBe#0;class#ExpectedConditions#0" expanded="false" />
+            <element signature="class#19386:19850" expanded="false" />
+            <element signature="method#apply#0;class#19386:19850" expanded="false" />
+            <element signature="method#not#0;class#ExpectedConditions#0" expanded="false" />
+            <element signature="class#19967:20325" expanded="false" />
+            <element signature="method#apply#0;class#19967:20325" expanded="false" />
+            <element signature="method#findElement#0;class#ExpectedConditions#0" expanded="false" />
+            <element signature="method#findElements#0;class#ExpectedConditions#0" expanded="false" />
+            <element signature="method#attributeToBe#0;class#ExpectedConditions#0" expanded="false" />
+            <element signature="class#21224:21926" expanded="false" />
+            <element signature="method#apply#0;class#21224:21926" expanded="false" />
+            <element signature="method#toString#0;class#21224:21926" expanded="false" />
+            <element signature="method#textToBe#0;class#ExpectedConditions#0" expanded="false" />
+            <element signature="class#22048:22660" expanded="false" />
+            <element signature="method#apply#0;class#22048:22660" expanded="false" />
+            <element signature="method#toString#0;class#22048:22660" expanded="false" />
+            <element signature="method#textMatches#0;class#ExpectedConditions#0" expanded="false" />
+            <element signature="class#22788:23433" expanded="false" />
+            <element signature="method#apply#0;class#22788:23433" expanded="false" />
+            <element signature="method#toString#0;class#22788:23433" expanded="false" />
+            <element signature="method#numberOfElementsToBeMoreThan#0;class#ExpectedConditions#0" expanded="false" />
+            <element signature="class#23586:24176" expanded="false" />
+            <element signature="method#apply#0;class#23586:24176" expanded="false" />
+            <element signature="method#toString#0;class#23586:24176" expanded="false" />
+            <element signature="method#numberOfElementsToBeLessThan#0;class#ExpectedConditions#0" expanded="false" />
+            <element signature="class#24329:24919" expanded="false" />
+            <element signature="method#apply#0;class#24329:24919" expanded="false" />
+            <element signature="method#toString#0;class#24329:24919" expanded="false" />
+            <element signature="method#numberOfElementsToBe#0;class#ExpectedConditions#0" expanded="false" />
+            <element signature="class#25064:25628" expanded="false" />
+            <element signature="method#apply#0;class#25064:25628" expanded="false" />
+            <element signature="method#toString#0;class#25064:25628" expanded="false" />
+            <element signature="method#attributeToBe#1;class#ExpectedConditions#0" expanded="false" />
+            <element signature="class#25787:26442" expanded="false" />
+            <element signature="method#apply#0;class#25787:26442" expanded="false" />
+            <element signature="method#toString#0;class#25787:26442" expanded="false" />
+            <element signature="method#attributeContains#0;class#ExpectedConditions#0" expanded="false" />
+            <element signature="class#26605:27471" expanded="false" />
+            <element signature="method#apply#0;class#26605:27471" expanded="false" />
+            <element signature="method#toString#0;class#26605:27471" expanded="false" />
+            <element signature="method#attributeContains#1;class#ExpectedConditions#0" expanded="false" />
+            <element signature="class#27626:28532" expanded="false" />
+            <element signature="method#apply#0;class#27626:28532" expanded="false" />
+            <element signature="method#toString#0;class#27626:28532" expanded="false" />
+            <element signature="method#attributeToBeNotEmpty#0;class#ExpectedConditions#0" expanded="false" />
+            <element signature="class#28679:29355" expanded="false" />
+            <element signature="method#apply#0;class#28679:29355" expanded="false" />
+            <element signature="method#visibilityOfNestedElementsLocatedBy#0;class#ExpectedConditions#0" expanded="false" />
+            <element signature="class#29515:30379" expanded="false" />
+            <element signature="method#apply#0;class#29515:30379" expanded="false" />
+            <element signature="method#visibilityOfNestedElementsLocatedBy#1;class#ExpectedConditions#0" expanded="false" />
+            <element signature="class#30547:31321" expanded="false" />
+            <element signature="method#apply#0;class#30547:31321" expanded="false" />
+            <element signature="method#presenceOfNestedElementLocatedBy#0;class#ExpectedConditions#0" expanded="false" />
+            <element signature="class#31472:31983" expanded="false" />
+            <element signature="method#apply#0;class#31472:31983" expanded="false" />
+            <element signature="method#presenceOfNestedElementLocatedBy#1;class#ExpectedConditions#0" expanded="false" />
+            <element signature="class#32142:32626" expanded="false" />
+            <element signature="method#apply#0;class#32142:32626" expanded="false" />
+            <element signature="method#presenceOfNestedElementsLocatedBy#0;class#ExpectedConditions#0" expanded="false" />
+            <element signature="class#32784:33299" expanded="false" />
+            <element signature="method#apply#0;class#32784:33299" expanded="false" />
+            <element signature="method#invisibilityOfAllElements#0;class#ExpectedConditions#0" expanded="false" />
+            <element signature="class#33433:34139" expanded="false" />
+            <element signature="method#apply#0;class#33433:34139" expanded="false" />
+            <element signature="method#or#0;class#ExpectedConditions#0" expanded="false" />
+            <element signature="class#34256:35636" expanded="false" />
+            <element signature="method#apply#0;class#34256:35636" expanded="false" />
+            <element signature="method#toString#0;class#34256:35636" expanded="false" />
+            <element signature="method#and#0;class#ExpectedConditions#0" expanded="false" />
+            <element signature="class#35754:37048" expanded="false" />
+            <element signature="method#apply#0;class#35754:37048" expanded="false" />
+            <element signature="method#toString#0;class#35754:37048" expanded="false" />
+            <element signature="method#javaScriptThrowsNoExceptions#0;class#ExpectedConditions#0" expanded="false" />
+            <element signature="class#37177:37676" expanded="false" />
+            <element signature="method#apply#0;class#37177:37676" expanded="false" />
+            <element signature="method#jsReturnsValue#0;class#ExpectedConditions#0" expanded="false" />
+            <element signature="class#37790:38449" expanded="false" />
+            <element signature="method#apply#0;class#37790:38449" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/common/Configs.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/common/Keywords.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+          <folding>
+            <element signature="n#!!block;n#clickButtonThroughFrames#0;n#!!block;n#Keywords#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/htmlsample/waitForAlert.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="10" column="78" selection-start-line="10" selection-start-column="78" selection-end-line="10" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/session22102016/selenium/WaitTest.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="67" column="45" selection-start-line="67" selection-start-column="45" selection-end-line="67" selection-end-column="45" />
+          <folding>
+            <element signature="e#34#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/session22102016/selenium/ValuePresent.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+          <folding>
+            <element signature="e#34#75#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testoop/TestPerson.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/session22102016/oop/JPerson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testoop/TestJPerson.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/session22102016/oop/Codable.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/session22102016/oop/Employee.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/session22102016/oop/Person.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testoop/OOPTest.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding>
+            <element signature="e#17#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testoop/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding>
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#158#159#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testoop/DataDrivenTest.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+          <folding>
+            <element signature="e#17#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/session22102016/notes/Notes.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="30" column="38" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="38" />
           <folding />
         </state>
       </provider>
